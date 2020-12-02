@@ -1,0 +1,13 @@
+css>mnews.css /style.css
+img> apple-touch-icon.png/emin.jpg/facebook.icon/favicon.png/header-bg.jpg/image.png/insta.icon/port01.jpg/port02.jpg/port03.jpg/youtube.icon
+js>main.js
+lib>bootstrap>css>bootstrap.css/bootstrap.min.css
+lib>bootstrap>fonts>glyphicons-halflings-regular.eot/glyphicons-halflings-regular.svg/glyphicons-halflings-regular.ttf/glyphicons-halflings-regular.woff/glyphicons-halflings-regular.woff2
+lib>bootstrap>js>bootstrap.js/bootstrap.min.js
+lib>chart>chart.js
+lib>easing>easing.js/easing.min.js
+lib>font-awesome>css>font1.css/font2.css/font3.css/font4.css/font-awesome.css/font-awesome.min.css
+lib>font-awesome>fonts>FontAwesome.otf
+lib>font-awesome>fonts>fontawesome-webfont.eot/fontawesome-webfont.svg/fontawesome-webfont.ttf/fontawesome-webfont.woff/fontawesome-webfont.woff2
+lib>jquery>jquery.js/jquery.min.js
+lib>php-mail-form>validate.js
